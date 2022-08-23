@@ -434,8 +434,11 @@ hr {
         font-size: 70%;
     }
     .nextContentLeft {
-        font-size: 80%;
+        font-size: 90%;
+        margin: 2% -4%;
+        padding: 5% 20%;
     }
+
     .upContent {
         font-size: 70%;
     }
